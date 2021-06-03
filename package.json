@@ -1,8 +1,19 @@
 {
-  "name": "tto-connectivity",
-  "version": "1.0.0",
+  "name": "@rafatz/together",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafatzbr/together.git"
+  },
+  "author": {
+    "name": "Rafael Zanetti",
+    "email": "rafatz@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rafatzbr/keymaster/issues"
+  },
   "dependencies": {
     "@sap/xsenv": "^3.1.0",
     "axios": "^0.21.1"
